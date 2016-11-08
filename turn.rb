@@ -40,5 +40,3 @@ class Round
     @@cur_player = @@cur_player == @p1 ? @p2 : @p1
   end
 end
-
-

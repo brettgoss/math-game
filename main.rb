@@ -1,3 +1,4 @@
 require './game'
 
-Game.new
+game = Game.new
+game.run
